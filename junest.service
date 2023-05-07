@@ -1,0 +1,7 @@
+[Unit]
+Description=junest tar.gz file generator
+Wants=junest.timer
+[Service]
+User=root
+Type=simple
+ExecStart=/usr/share/lilac/junest/man_junest.sh
