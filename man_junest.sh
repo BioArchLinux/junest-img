@@ -1,3 +1,4 @@
+#!/bin/bash
 
 cd /usr/share/lilac/junest
 git pull

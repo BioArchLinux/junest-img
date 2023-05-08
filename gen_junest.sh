@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # make image follow the junest image request
 docker build -t junest .
 
