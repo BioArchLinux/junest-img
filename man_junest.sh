@@ -7,5 +7,3 @@ git pull
 
 rm /usr/share/lilac/Repo/junest/*
 mv bioarchlinux-junest.tar.gz /usr/share/lilac/Repo/junest/
-
-rm /usr/share/lilac/junest/bioarchlinux-junest.tar*
