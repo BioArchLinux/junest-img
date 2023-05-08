@@ -18,6 +18,8 @@
 
 ### Install
 
+You can replace `https://raw.githubusercontent.com/BioArchLinux/junest-img/main/biojunest.sh` with `https://git.bioarchlinux.org/BioArchLinux/junest-img/raw/branch/main/biojunest.sh`
+
 ```
 curl -O https://raw.githubusercontent.com/BioArchLinux/junest-img/main/biojunest.sh
 ```
