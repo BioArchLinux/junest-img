@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/BioArchLinux/junest-img/main/biojunest.sh
 then 
 
 ```
-chmod +x biojunest.sh && ./biojunest
+chmod +x biojunest.sh && ./biojunest.sh
 ```
 
 ### Advanced
@@ -39,7 +39,7 @@ chmod +x biojunest.sh && ./biojunest
 You can also configure mirror, for example
 
 ```
-./biojunest -m="https://mirrors.njupt.edu.cn/mirrors/bioarchlinux"
+./biojunest.sh -m="https://mirrors.njupt.edu.cn/mirrors/bioarchlinux"
 ```
 
 ## Usage
